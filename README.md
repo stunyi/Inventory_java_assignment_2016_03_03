@@ -1,9 +1,9 @@
-Objective
-=========
+# Objective
+
 Introduce Linked Lists and their implementation in Java.  
 
-Instructions
-------------
+### Instructions
+
 Implement the necessary classes and methods to satisfy the following requirements.  
 
 The Inventory System shall read Sales Data from the supplied CSV (Comma Separated Values) file.  The Products sold shall be deducted from the starting Inventory.  The starting Inventory shall be read from the supplied CSV file.  
@@ -13,8 +13,8 @@ Sales Data:  A listing of all Products sold, the number of units sold for each P
 
 Inventory:  A listing of the change in Inventory:  starting number of units for each Product, units sold and the final count of units in the Inventory.  
 
-Extra Credit
-------------
+### Extra Credit
+
 Customer Sales:  A list of Customers in descending order based on the value of their purchases.  
 Product Sales:  A list of Products in descending order based on total revenue.  
 
